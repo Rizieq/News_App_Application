@@ -1,7 +1,5 @@
-# News_App_Application
-
-![NewsApp](https://github.com/Rizieq/News_App_Application/assets/44150759/4264f29e-0641-4802-b29d-26e1f18afc49)
-
+# Application Vidio
+![NewsApp](https://github.com/Rizieq/News_App_Application/assets/44150759/80b426dd-3c11-4f6c-a32f-f106b7695e23)
 
 
 
